@@ -4,6 +4,8 @@
 
 Here I have created a Command line that allows the user to view and manage departments, roles, and employees in thier company so that they can organize and plan their own business. This was a fairly challenging task for me and took a great deal of time and effort.Nontheless, I learned valuable things about SQL and the use and value it has in the field of coding.
 
+https://youtu.be/R8CJtLcVFrk
+
 ## Table of Contents
 
 - [Description](#description)
